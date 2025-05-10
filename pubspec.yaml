@@ -10,8 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  audioplayers: ^5.2.1
   cupertino_icons: ^1.0.8
+  audioplayers: ^5.2.1
+  permission_handler: ^11.3.0
 
 dev_dependencies:
   flutter_test:
