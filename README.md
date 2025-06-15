@@ -1,6 +1,6 @@
 # Demo
 
-[![Music Player](/thumbnail.png)](https://youtu.be/zzoZIuM5ZaI)
+[![Music Player](/thumbnail.png)](https://youtu.be/JQxwKwaek2c?si=9afo5tJUs3SHpDYQ)
 
 
 # Personalized Music Player App
